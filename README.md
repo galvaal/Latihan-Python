@@ -38,7 +38,7 @@ jika code yang diinput benar maka tidak akan terjadi error dan begini hasil outp
 
 Input code yang benar untuk melakukan penggabungan,penjumlahan dan pembagian 
 
-![piton 3 input](https://user-images.githubusercontent.com/115516730/197380085-c4d44545-769e-4b9a-81a0-101a49321176.png)
+![Screenshot_20](https://user-images.githubusercontent.com/115516730/197380303-5d3b27c9-3455-410b-8821-9cfd2d0d6632.png)
 
 Jika code yang diinput sudah benar maka tidak akan terjadi error dan hasilnya adalah
 
